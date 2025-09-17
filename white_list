@@ -39,6 +39,7 @@
 ||oaiusercontent.com^$important
 ||files.oaiusercontent.com^$important
 ||*.openai.com^$important
+||turn.zcvh.net^$important
 
 # === Microsoft Copilot / Bing / Авторизация ===
 ||copilot.microsoft.com^$important
