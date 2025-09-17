@@ -1,1 +1,60 @@
 
+# Основные домены ChatGPT и OpenAI
+chatgpt.com
+www.chatgpt.com
+auth.chatgpt.com
+api.chatgpt.com
+cdn.chatgpt.com
+files.chatgpt.com
+oaiusercontent.com
+*.chatgpt.com
+*.openai.com
+
+# Авторизация
+auth0.openai.com
+auth.openai.com
+
+# CDN и внешние ресурсы (обязательно!)
+cloudflare.com
+cloudflare.net
+*.cloudflare.com
+*.cloudflare.net
+
+fastly.net
+*.fastly.net
+
+akamai.net
+*.akamai.net
+
+googleapis.com
+gstatic.com
+*.googleapis.com
+*.gstatic.com
+
+jsdelivr.net
+*.jsdelivr.net
+
+bootstrapcdn.com
+*.bootstrapcdn.com
+
+# Для WebSockets и стриминга
+wss://chatgpt.com
+wss://*.chatgpt.com
+
+# Если используете Bing в ChatGPT
+bing.com
+www.bing.com
+c.msn.com
+srtb.msn.com
+*.msn.com
+
+# TURN/STUN (если нужно)
+turn.zcvh.net
+stun.zcvh.net
+*.zcvh.net
+
+# Дополнительно — популярные сайты (если нужно)
+youtube.com
+google.com
+github.com
+stackoverflow.com
