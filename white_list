@@ -31,6 +31,14 @@
 ||oaistatic.com^$important
 ||api.openai.com^$important
 ||cdn.oaistatic.com^$important
+||chat.openai.com^$important
+||api.openai.com^$important
+||cdn.openai.com^$important
+||auth.openai.com^$important
+||auth0.openai.com^$important
+||oaiusercontent.com^$important
+||files.oaiusercontent.com^$important
+||*.openai.com^$important
 
 # === Microsoft Copilot / Bing / Авторизация ===
 ||copilot.microsoft.com^$important
